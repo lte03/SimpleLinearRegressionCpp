@@ -1,2 +1,2 @@
 # LinearRegressionCpp
-Linear Regression implemention in C++
+Simple Linear Regression implemention in C++
